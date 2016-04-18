@@ -15,6 +15,8 @@ namespace _2as1.Tests.Documentation
         //TODO: Investigate the data within MyGTD to see if I can clean up the existing data set
         
         //TODO: Create a Bootstrap implementation of 'MyGTD' under 2-as-1.com/mygtd rather than mygtd.2-as-1.com
+
+        //TODO: Establish a better approach for embedding requirements within my code
         
          
     }
