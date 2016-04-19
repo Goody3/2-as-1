@@ -15,8 +15,8 @@ namespace _2as1AutoFramework
 
         public static void Initialize()
         {
-            //Instance = new FirefoxDriver();
-            Instance = new ChromeDriver();
+            Instance = new FirefoxDriver();
+            //Instance = new ChromeDriver();
             Instance.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(5));
         }
 
